@@ -1,5 +1,13 @@
 # Chirp
 
+This just playing with phoenix live-view. The base starting place is
+mostly built up after Chris McCord's (video)[https://www.youtube.com/watch?v=MZvmYaFkNJI] building up a twitter clone.
+
+The hope is that this can be built on and used as a platform to play,
+learn, and explore live-view.
+
+## Getting Running
+
 To start your Phoenix server:
 
   * Setup the project with `mix setup`
